@@ -1,0 +1,7 @@
+*.sqlite3
+/blog/migrations/
+/personal_portfolio/migrations/
+/projects/migrations/
+/blog/__pycache__/
+/personal_portfolio/__pycache__/
+/projects/__pycache__/
